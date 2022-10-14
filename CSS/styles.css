@@ -1,0 +1,10 @@
+.card-body{
+  background-color: #228B22;
+  box-shadow: 15px 15px 0 #000000;
+}
+.card{
+  margin-bottom: 20px;
+}
+.card-text{
+  font-style: italic;
+}
