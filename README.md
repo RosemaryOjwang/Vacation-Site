@@ -6,6 +6,7 @@
 ## Technologies Used
 * _HTML_
 * _Bootstrap_
+* _CSS_
 
 ## Description
 _The webpage utilizes Bootstrap's container to pad all content, and jumbotron to hold the title of the page and the introductory sentence. It also has blockquotes to hold reviews of previous visitors to the site, as well as built-in classes to add emphasis in the same section._
